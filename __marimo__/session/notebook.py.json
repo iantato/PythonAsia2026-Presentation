@@ -1,0 +1,464 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.20.4",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "0d629faec0f9ea8224251cc2a626ed0d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "023594bf1b4ce77b5a4058ebc9582479",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "c625b525aa83379f30bebc954f5188c9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "428a681c888f6349f54612e88780d36d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "97ffe8a2f3650a8d8906c372fb357422",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "e98e229680620374e13dd2c1da60aca4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "cf27ec4f029faa75cf22af886e4aa89c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "f4dfe6f0dbfe8d19472f597552067f74",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "b0c14a30c3ace65119f58970a441b693",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "43c53c462ac1e35aa6f4540e1c18954b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"databases-101-ditch-the-ancient-sql-scrolls-for-sqlmodel\">Databases 101: Ditch the Ancient SQL Scrolls for SQLModel</h1>\n<h3 id=\"a-talk-by-christian-mark-p-francisco\">A talk by Christian Mark P. Francisco</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "81024e1110ace45b823485d23ee3d796",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "fba5c34533ac5dc29f33339b24a050ec",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"the-world-revolves-around-data\">The world revolves around data.</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "379a8299463eeb61b78da2813dac8abf",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "6792ed7c27d9d7ca40a5a562f272e8ad",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"the-world-revolves-around-data\"><del>The world revolves around data.</del></h3>\n<h3 id=\"data-runs-the-world\">Data runs the world</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "17d3ceb1a9f3f2e8ef993501aeed7780",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "6e8be783c0934a1df66922297e1310d6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"databases-101-ditch-the-ancient-sql-for-sqlmodels\">Databases 101: Ditch the Ancient SQL for SQLModels</h1>\n<h3 id=\"a-talk-by-christian-mark-p-francisco\">A talk by Christian Mark P. Francisco</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "120d41f15fb242c1f14216f35a616cc6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "85c82f5639e63bb94e822220aa077547",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"databases\">Databases</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "c96b251fdd4ae631e572bae573338d0c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "34769c5c7e7b3a4f6061ccfa811c42c2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-the-normal-way\">Databases with Python (The normal way)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-0' random-id='c0e2af28-95f4-f1fd-b471-39dce44f63e9'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;99b3d0ead72b471ba1f315b8806eaac4&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-FYSuvcNg.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-1' random-id='7c9bac92-f260-843b-1bb4-2455378e2a52'><marimo-code-editor data-initial-value='&quot;# SQLite3 Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "6210bf7aff4f54cab4e2ac7a7d0938b4",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "a30a20aed80f1c6f7fb4c6935f9ad4c5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"what-if-we-can-just-use-pure-python-instead\">What if we can just use PURE Python instead?</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "f671e74cc19facefc675063b0a04012e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "e3d506b3b31c80a40af21e9610bba9e1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"an-object-relational-mapping-orm-lets-us-represent-database-tables-as-python-classes\">An Object-Relational Mapping (ORM) lets us represent database tables as Python classes</h3>\n<span class=\"paragraph\"><marimo-mermaid data-diagram='&quot;&#92;ngraph LR&#92;n    A[&#92;&quot;\ud83d\udc0d Python Code&#92;&quot;] --&gt; B[&#92;&quot;\ud83d\udd17 ORM&lt;br/&gt;(SQLModel)&#92;&quot;]&#92;n    B --&gt; C[&#92;&quot;\ud83d\uddc4\ufe0f Database&lt;br/&gt;(SQL)&#92;&quot;]&#92;n&#92;n    style A fill:#3776ab,stroke:#333,color:#fff&#92;n    style B fill:#f39c12,stroke:#333,color:#fff&#92;n    style C fill:#336791,stroke:#333,color:#fff&#92;n&quot;'></marimo-mermaid></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "a2c7d0e40e2284c021a6a08a23be44c9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xXTn",
+      "code_hash": "a29e2db8e48ac882dd9c6e3510a4e9f2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-sqlmodel-orm\">Databases with Python (SQLModel ORM)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-6' random-id='024940f7-cdc9-59b5-1fda-04279086d73d'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;30a1168f71a34a03b11e5c454c357dba&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-itQckGGP.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-7' random-id='d12dcf31-c5c2-42de-b9ce-256ceed76fa3'><marimo-code-editor data-initial-value='&quot;# SQLModel Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "c72d2f4396c32d38ccae5930252ae79a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "pHFh",
+      "code_hash": "4bd41b81274694ead1f9572a0613572f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-sqlmodel-orm\">Databases with Python (SQLModel ORM)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-8' random-id='2ef424cd-6703-6f26-ee76-a289aeb59ee6'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;e5153f0d198943be81351d660a2f9ed5&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-C8NOeZDO.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-9' random-id='a0aaaf18-f59b-11f5-a59a-d43e8e928ef6'><marimo-code-editor data-initial-value='&quot;# SQLModel Demo&#92;nfrom sqlmodel import SQLModel, Field&#92;n&#92;nclass Wizard(SQLModel, table=True):&#92;n    id: int | None = Field(default=None, primary_key=True)&#92;n    name: str&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-10' random-id='4359da77-fabc-ba39-ff85-bc5fe62a205b'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;ffd9e2c0654d4ab48d32e52aa2c2fe90&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-vuDQ1FUW.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-11' random-id='5450bccd-b49e-60fe-003d-26b07059684f'><marimo-code-editor data-initial-value='&quot;# SQLModel Engine Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NCOB",
+      "code_hash": "712b0caba5ccd673c0113351d885dac6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aqbW",
+      "code_hash": "0dcf8eb1e5edfcf2bdea85763afa68be",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"no-more-rows01\">No more rows[0][1]</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "FINj",
+      "code_hash": "e05c3a812f51608f4cfc73d961c7c4f8",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "itkX",
+      "code_hash": "6e8be783c0934a1df66922297e1310d6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"databases-101-ditch-the-ancient-sql-for-sqlmodels\">Databases 101: Ditch the Ancient SQL for SQLModels</h1>\n<h3 id=\"a-talk-by-christian-mark-p-francisco\">A talk by Christian Mark P. Francisco</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NoeK",
+      "code_hash": "fca2cd2c356b44ade1580da45816bb4c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"next-steps\">Next steps</h2>\n<h3 id=\"official-docs-sqlmodeltiangolocom\">Official docs: <strong>sqlmodel.tiangolo.com</strong></h3>\n<h3 id=\"checkout-fastapi-integrations\">Checkout <strong>FastAPI integrations</strong></h3>\n<h3 id=\"start-casting-your-first-database-sorcery\">Start casting your first database sorcery</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TRpd",
+      "code_hash": "4a8516e1e3a413ee50143157beaea68e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TXez",
+      "code_hash": "4be6fbf0b4418d0996d598599b7c904c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"qa\">Q&amp;A</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
