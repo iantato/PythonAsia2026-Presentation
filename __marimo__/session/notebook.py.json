@@ -163,7 +163,7 @@
     },
     {
       "id": "Hstk",
-      "code_hash": "379a8299463eeb61b78da2813dac8abf",
+      "code_hash": "da39badfce90e36f0af4e740e8459414",
       "outputs": [
         {
           "type": "data",
@@ -189,7 +189,7 @@
     },
     {
       "id": "iLit",
-      "code_hash": "17d3ceb1a9f3f2e8ef993501aeed7780",
+      "code_hash": "64d5eb0f59b22b914909fe744da4ec46",
       "outputs": [
         {
           "type": "data",
@@ -201,7 +201,7 @@
       "console": []
     },
     {
-      "id": "ZHCJ",
+      "id": "aqbW",
       "code_hash": "6e8be783c0934a1df66922297e1310d6",
       "outputs": [
         {
@@ -215,7 +215,7 @@
     },
     {
       "id": "ROlb",
-      "code_hash": "120d41f15fb242c1f14216f35a616cc6",
+      "code_hash": "ad7fd2b63350a0f82bc9fb2d1063c2ab",
       "outputs": [
         {
           "type": "data",
@@ -241,7 +241,7 @@
     },
     {
       "id": "TqIu",
-      "code_hash": "c96b251fdd4ae631e572bae573338d0c",
+      "code_hash": "1526e09fa31816e891f5d23c014b4b48",
       "outputs": [
         {
           "type": "data",
@@ -259,15 +259,15 @@
         {
           "type": "data",
           "data": {
-            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-the-normal-way\">Databases with Python (The normal way)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-0' random-id='c0e2af28-95f4-f1fd-b471-39dce44f63e9'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;99b3d0ead72b471ba1f315b8806eaac4&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-FYSuvcNg.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-1' random-id='7c9bac92-f260-843b-1bb4-2455378e2a52'><marimo-code-editor data-initial-value='&quot;# SQLite3 Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-the-normal-way\">Databases with Python (The normal way)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-0' random-id='8b55d674-ce76-98f6-a87f-75a1a11ebf24'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;3c377ab278c042ff8c05f418dff90fb5&quot;}' data-label='null' data-js-url='&quot;./@file/2063-18404-d65huX4h.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-1' random-id='5ab95ae9-ceda-f03e-bde1-4af3248c406a'><marimo-code-editor data-initial-value='&quot;# SQLite3 Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "ecfG",
-      "code_hash": "6210bf7aff4f54cab4e2ac7a7d0938b4",
+      "id": "DnEU",
+      "code_hash": "c9bcc29cf0877199b70fbeb7eef139dc",
       "outputs": [
         {
           "type": "data",
@@ -279,7 +279,7 @@
       "console": []
     },
     {
-      "id": "Pvdt",
+      "id": "ulZA",
       "code_hash": "a30a20aed80f1c6f7fb4c6935f9ad4c5",
       "outputs": [
         {
@@ -292,7 +292,7 @@
       "console": []
     },
     {
-      "id": "ZBYS",
+      "id": "ecfG",
       "code_hash": "f671e74cc19facefc675063b0a04012e",
       "outputs": [
         {
@@ -305,7 +305,7 @@
       "console": []
     },
     {
-      "id": "aLJB",
+      "id": "Pvdt",
       "code_hash": "e3d506b3b31c80a40af21e9610bba9e1",
       "outputs": [
         {
@@ -318,8 +318,8 @@
       "console": []
     },
     {
-      "id": "nHfw",
-      "code_hash": "a2c7d0e40e2284c021a6a08a23be44c9",
+      "id": "ZBYS",
+      "code_hash": "7dc8d038333da830ab082f10b41237ee",
       "outputs": [
         {
           "type": "data",
@@ -331,20 +331,20 @@
       "console": []
     },
     {
-      "id": "xXTn",
+      "id": "aLJB",
       "code_hash": "a29e2db8e48ac882dd9c6e3510a4e9f2",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-sqlmodel-orm\">Databases with Python (SQLModel ORM)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-6' random-id='024940f7-cdc9-59b5-1fda-04279086d73d'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;30a1168f71a34a03b11e5c454c357dba&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-itQckGGP.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-7' random-id='d12dcf31-c5c2-42de-b9ce-256ceed76fa3'><marimo-code-editor data-initial-value='&quot;# SQLModel Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-sqlmodel-orm\">Databases with Python (SQLModel ORM)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-6' random-id='ea7a4325-20b3-68f8-3c21-c10be01578f8'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;04010c8bcc1546bdb278a7481922bbec&quot;}' data-label='null' data-js-url='&quot;./@file/2063-18404-J6uYK1Ym.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-7' random-id='f7468e1d-cae6-caaf-2c68-4ee8aa8b4760'><marimo-code-editor data-initial-value='&quot;# SQLModel Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "AjVT",
+      "id": "nHfw",
       "code_hash": "c72d2f4396c32d38ccae5930252ae79a",
       "outputs": [
         {
@@ -357,20 +357,20 @@
       "console": []
     },
     {
-      "id": "pHFh",
+      "id": "xXTn",
       "code_hash": "4bd41b81274694ead1f9572a0613572f",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-sqlmodel-orm\">Databases with Python (SQLModel ORM)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-8' random-id='2ef424cd-6703-6f26-ee76-a289aeb59ee6'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;e5153f0d198943be81351d660a2f9ed5&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-C8NOeZDO.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-9' random-id='a0aaaf18-f59b-11f5-a59a-d43e8e928ef6'><marimo-code-editor data-initial-value='&quot;# SQLModel Demo&#92;nfrom sqlmodel import SQLModel, Field&#92;n&#92;nclass Wizard(SQLModel, table=True):&#92;n    id: int | None = Field(default=None, primary_key=True)&#92;n    name: str&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-10' random-id='4359da77-fabc-ba39-ff85-bc5fe62a205b'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;ffd9e2c0654d4ab48d32e52aa2c2fe90&quot;}' data-label='null' data-js-url='&quot;./@file/2063-12808-vuDQ1FUW.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-11' random-id='5450bccd-b49e-60fe-003d-26b07059684f'><marimo-code-editor data-initial-value='&quot;# SQLModel Engine Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"databases-with-python-sqlmodel-orm\">Databases with Python (SQLModel ORM)</h3></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-8' random-id='16674d36-ee94-61f9-3d91-dc767ae228f4'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;3a88eb8802824c23b5fe2e682ed13b78&quot;}' data-label='null' data-js-url='&quot;./@file/2063-18404-X4quPYjZ.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-9' random-id='2191857a-deb0-fe25-eb1e-79d487e6d173'><marimo-code-editor data-initial-value='&quot;# SQLModel Demo&#92;nfrom sqlmodel import SQLModel, Field&#92;n&#92;nclass Wizard(SQLModel, table=True):&#92;n    id: int | None = Field(default=None, primary_key=True)&#92;n    name: str&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span>\n    <style>\n    \n    .editor {\n      min-height: 0px;\n      display: grid;\n      grid-template-columns: 35px auto;\n      position: relative;\n      margin-left: 50px;\n      margin-right: 50px;\n      margin-top: 15px;\n      align-items: center;\n    }\n    \n    </style>\n    <div class='editor'>\n    <marimo-ui-element object-id='Xref-10' random-id='92768b9d-86ae-789a-a3ba-3c777e44b66c'><marimo-anywidget data-initial-value='{&quot;model_id&quot;:&quot;6eca1324365a40ebb60e0661800fac7d&quot;}' data-label='null' data-js-url='&quot;./@file/2063-18404-GNCkZYqZ.js&quot;' data-js-hash='&quot;59e5cbd46d9c28cc51f2122e948c7de9&quot;'></marimo-anywidget></marimo-ui-element><marimo-ui-element object-id='Xref-11' random-id='342e224b-5914-6ab6-1c6d-ba1f65ad56bf'><marimo-code-editor data-initial-value='&quot;# SQLModel Engine Demo&#92;n&#92;n&#92;n&quot;' data-label='null' data-language='&quot;python&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-show-copy-button='true' data-debounce='false'></marimo-code-editor></marimo-ui-element>\n    </div>\n    <span class=\"markdown prose dark:prose-invert contents\"><div style=\"margin-left: 84px; margin-right: 50px; font-family: serif; font-size: 12px\">\n</div></span></div>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "NCOB",
+      "id": "AjVT",
       "code_hash": "712b0caba5ccd673c0113351d885dac6",
       "outputs": [
         {
@@ -383,7 +383,7 @@
       "console": []
     },
     {
-      "id": "aqbW",
+      "id": "pHFh",
       "code_hash": "0dcf8eb1e5edfcf2bdea85763afa68be",
       "outputs": [
         {
@@ -396,7 +396,7 @@
       "console": []
     },
     {
-      "id": "FINj",
+      "id": "NCOB",
       "code_hash": "e05c3a812f51608f4cfc73d961c7c4f8",
       "outputs": [
         {
@@ -409,21 +409,8 @@
       "console": []
     },
     {
-      "id": "itkX",
-      "code_hash": "6e8be783c0934a1df66922297e1310d6",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"databases-101-ditch-the-ancient-sql-for-sqlmodels\">Databases 101: Ditch the Ancient SQL for SQLModels</h1>\n<h3 id=\"a-talk-by-christian-mark-p-francisco\">A talk by Christian Mark P. Francisco</h3></span>"
-          }
-        }
-      ],
-      "console": []
-    },
-    {
-      "id": "NoeK",
-      "code_hash": "fca2cd2c356b44ade1580da45816bb4c",
+      "id": "TRpd",
+      "code_hash": "973e4818cdea8f607a8c505818ca82c6",
       "outputs": [
         {
           "type": "data",
@@ -435,7 +422,7 @@
       "console": []
     },
     {
-      "id": "TRpd",
+      "id": "TXez",
       "code_hash": "4a8516e1e3a413ee50143157beaea68e",
       "outputs": [
         {
@@ -448,13 +435,26 @@
       "console": []
     },
     {
-      "id": "TXez",
+      "id": "dNNg",
       "code_hash": "4be6fbf0b4418d0996d598599b7c904c",
       "outputs": [
         {
           "type": "data",
           "data": {
             "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"qa\">Q&amp;A</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "6e8be783c0934a1df66922297e1310d6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"databases-101-ditch-the-ancient-sql-for-sqlmodels\">Databases 101: Ditch the Ancient SQL for SQLModels</h1>\n<h3 id=\"a-talk-by-christian-mark-p-francisco\">A talk by Christian Mark P. Francisco</h3></span>"
           }
         }
       ],

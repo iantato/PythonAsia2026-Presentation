@@ -369,7 +369,7 @@ def _(mo):
 
 @app.cell
 def _():
-    # SLIDE 2.5 [NOTES]: For engagement and hook, tell them to say this with you out loud. Count from 3, 2, 1 and then say the phrase again
+    # SLIDE 3 [NOTES]: For engagement and hook, tell them to say this with you out loud. Count from 3, 2, 1 and then say the phrase again
     #                    "Data runs the world". Tell them to pause, and repeat this phrase over and over inside their head. While they are
     #                    doing that, tell them to think about systems, businesses, or companies that makes decisions based on data, whether
     #                    it's AI, fast-food chains, or the government, tell them to just keep thinking about it and for the meanwhile you will
@@ -388,7 +388,7 @@ def _(mo):
 
 @app.cell
 def _():
-    # SLIDE 3 [NOTES]: Say hello once again and introduce your name and nickname. Say your credentials:
+    # SLIDE 4 [NOTES]: Say hello once again and introduce your name and nickname. Say your credentials:
     #                  - 3rd Year student in Computer Science
     #                  - Devcon Kids Lead Learner in the Manila Chapter
     #                  - Part-Time Automation Engineer
@@ -409,7 +409,7 @@ def _(mo):
 
 @app.cell
 def _():
-    # SLIDE 4 [NOTES]: We store all information and data in computers in a table that are called databases. And normally they are created
+    # SLIDE 5 [NOTES]: We store all information and data in computers in a table that are called databases. And normally they are created
     #                  with the Structured Query Language or the SQL language. Even in Python this is the case.
     return
 
@@ -424,7 +424,7 @@ def _(mo):
 
 @app.cell
 def _():
-    # SLIDE 5 [NOTES]: This is a demo slide where we get to code. Use sqlite3 for the demo so that we can actually check it using
+    # SLIDE 6 [NOTES]: This is a demo slide where we get to code. Use sqlite3 for the demo so that we can actually check it using
     #                  `sqlite_web`.
     #
     #                  [SYNTAX]:
@@ -478,7 +478,7 @@ def _(
 
 @app.cell
 def _():
-    # SLIDE 6 [NOTES]: Introduce the solution. "So what if we can just write everything using Python?". No SQL at all, with syntax highlighting,
+    # SLIDE 7 [NOTES]: Introduce the solution. "So what if we can just write everything using Python?". No SQL at all, with syntax highlighting,
     #                  and better readability. Introduce Object Relational Mapping (ORM) to the crowd.
     return
 
@@ -525,7 +525,7 @@ def _(mo):
 
 @app.cell
 def _():
-    # SLIDE 9 [NOTES]: This is where we create the Wizards table. Show them the step-by-step process of creating tables in SQLModel.
+    # SLIDE 8 [NOTES]: This is where we create the Wizards table. Show them the step-by-step process of creating tables in SQLModel.
     #                  Tell them that we'll be creating the Wizards table but instead of using SQL we'll be defining a class called Wizards.
     #                  Then introduce them to fields or the columns in databases, tell them that we'll be using attributes or variable names
     #                  for creating these fields. Tell them that SQLModel has Field() which we can use to define special database properties such
@@ -537,6 +537,41 @@ def _():
     #                  class Wizard(SQLModel, table=True):
     #                       id: int | None = Field(default=None, primary_key=True)
     #                       name: str
+    # SLIDE 8.5 [NOTES]: Now we'll be introducing to them the engine which handles all the actual communication between databases.
+    #                   We'll be showing them how they can create tables in this slide and insert data into the database.
+    #                   Tell them that adding data to the database is just like creating normal Python objects and placing it into
+    #                   the session.
+    #                   Emphasize that we've completely removed SQL strings and are now using Python functionalities. Also say that the
+    #                   fun thing about this is that our model automatically validates our data. And if we want to do more validation, we can
+    #                   also do that.
+    #
+    #                   [SYNTAX]:
+    #                   from sqlmodel import SQLModel, create_engine
+    #
+    #                   sqlite_url = "sqlite:///database.db"
+    #                   engine = create_engine(sqlite_url)
+    #
+    #                   SQLModel.metadata.create_all(engine)
+    #
+    #                   # Adding stuff
+    #                   from sqlmodel import Session
+    #                   
+    #                   wizard_1 = Wizard(name="Harry Potter")
+    #                   with Session(engine) as session:
+    #                        session.add(wizard_1)
+    #                        session.commit()
+    #
+    #                   # Selecting stuff
+    #                   from sqlmodel import select
+    #                   
+    #                   with Session(engine) as session:
+    #                        statement = select(Wizard).where(Wizard.name == "Gandalf")
+    #                        wizard = session.exec(statement).first()
+    #                        print(wizard.name)
+    #
+    #                   BONUS if there's time: Briefly say that there is another magic that ORM/SQLModel can do. What if you're using two
+    #                                          different databases but has the same model. Well... We can do that too with ORM's. You don't 
+    #                                          need to change anything but just the URL of your engine.
     return
 
 
